@@ -5,6 +5,7 @@
     "keywords": ["di", "dependency injection", "container", "ioc", "psr-11", "psr11", "container-interop"],
     "homepage": "https://php-di.org/",
     "license": "MIT",
+    "version": "6.4.1",
     "autoload": {
         "psr-4": {
             "DI\\": "src/"
